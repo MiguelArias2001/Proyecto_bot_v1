@@ -1,0 +1,4 @@
+env_1/
+Engine/Utils/Model/models--sentence-transformers--paraphrase-multilingual-MiniLM-L12-v2
+*.gguf
+.vscode/
